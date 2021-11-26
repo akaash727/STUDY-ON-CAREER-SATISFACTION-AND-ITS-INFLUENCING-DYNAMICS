@@ -10,6 +10,7 @@ What also motivated to carry out study was the knowledge of current scenario whe
 The study may help departments of the university to develop or improve the quality of curriculum and teaching. The data collected while survey will be beneficial for another parallel study on building “Higher Education Recommendation System” to help students guide and recommend course based on the satisfaction level along with the aptitude, personality and other requirements. 
 
 
+![image](https://user-images.githubusercontent.com/52084607/143578779-ee3f8425-cce9-4139-9354-3cd251a7a972.png)
 
 
 
